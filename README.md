@@ -13,10 +13,10 @@ run docker buildx without the need to install buildx on your system.
 
 ### Options
 
-DOCKER_USERNAME - docker hub username
-DOCKER_PASSWORD - docker hub password
-DOCKER_SERVER - custom docker server
-CLEAR_CACHE(default: true) - delete docker buildx container
+* DOCKER_USERNAME - docker hub username
+* DOCKER_PASSWORD - docker hub password
+* DOCKER_SERVER - custom docker server
+* CLEAR_CACHE(default: true) - delete docker buildx container
 
 ### Example
 
